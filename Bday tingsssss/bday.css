@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+html{
+    background-color:#BEBEBE;
+}
+
+body{
+    font-family:'Space Mono', cursive;
+    color: #BF00FF;
+}
+
+article{
+    text-align: left;
+}
+
+section{
+    text-align: center;
+}
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.image{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bday_video{
+    margin-left:auto;
+    margin-right:auto;
+}
